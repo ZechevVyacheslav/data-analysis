@@ -1,0 +1,18 @@
+{
+  "name": "data-analisis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "google-play-scraper": "^6.2.3",
+    "mongodb": "^3.1.13"
+  }
+}
